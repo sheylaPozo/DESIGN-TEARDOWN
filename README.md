@@ -12,11 +12,17 @@ The project did not require responsivness and the page was not designed responsi
 *  HTML
 *  CSS
 
- ![Example](http://archive.ph/GeLfa)
+---
 
-### Live Demo 
- [Smashing-Magazine-Clone](https://sheylapozo.github.io/DESIGN-TEARDOWN/)
+### Sample Page
 
+[Example](http://archive.ph/GeLfa)
+
+### Live Demo
+
+[Apple-project](https://sheylapozo.github.io/DESIGN-TEARDOWN/)
+
+---
 
 ### Authors
  - Github:[Sheyla Pozo](https://github.com/sheylaPozo)
