@@ -16,7 +16,7 @@ The project did not require responsivness and the page was not designed responsi
 
 ### Sample Page
 
-[Example](http://archive.ph/GeLfa)
+[Example](https://web.archive.org/web/20170628134444/http://www.vanseodesign.com/blog/wp-content/uploads/2009/12/visual-hierarchy-compared.png)
 
 ### Live Demo
 
