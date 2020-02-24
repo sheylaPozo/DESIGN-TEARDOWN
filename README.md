@@ -11,12 +11,12 @@ The project did not require responsivness and the page was not designed responsi
 ## BUILT WITH
 *  HTML
 *  CSS
-***
- ![Example] (http://archive.ph/GeLfa)
+
+ ![Example](http://archive.ph/GeLfa)
 
 ### Live Demo 
- [Smashing-Magazine-Clone] (https://sheylapozo.github.io/DESIGN-TEARDOWN/)
-***
+ [Smashing-Magazine-Clone](https://sheylapozo.github.io/DESIGN-TEARDOWN/)
+
 
 ### Authors
  - Github:[Sheyla Pozo](https://github.com/sheylaPozo)
