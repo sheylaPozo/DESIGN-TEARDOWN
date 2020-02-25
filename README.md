@@ -21,7 +21,8 @@ The project did not require responsivness and the page was not designed responsi
 
 ### Live Demo
 
-[Apple-project](https://sheylapozo.github.io/DESIGN-TEARDOWN/)
+[live demo 1](https://rawcdn.githack.com/sheylaPozo/DESIGN-TEARDOWN/4daca1f3c4e3720db084031cfaab2a3adfb33491/index.html)
+[live demo 2](https://sheylapozo.github.io/DESIGN-TEARDOWN/)
 
 ---
 
