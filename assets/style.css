@@ -19,6 +19,61 @@
   --five: #666;
 }
 
+/*** shades of grey ***/
+
+.g-1 {
+  background: #111;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-2 {
+  background: #222;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-3 {
+  background: #333;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-4 {
+  background: #444;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-5 {
+  background: #555;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-6 {
+  background: #666;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-7 {
+  background: #777;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-8 {
+  background: #888;
+  border-radius: 3px;
+  color: #fff;
+}
+
+.g-9 {
+  background: #999;
+  border-radius: 3px;
+  color: #fff;
+}
 
 /*** nav bar ****/
 nav {
@@ -40,7 +95,7 @@ nav {
 }
 
 .nav_els {
-  border: 1px #333 solid;
+  /* border: 1px #333 solid; */
   align-self: stretch;
   width: 14.28%;
 }
@@ -74,8 +129,9 @@ nav {
 }
 
 .header-title {
-  border: 1px rgb(161, 34, 34) solid;
+  /* border: 1px rgb(161, 34, 34) solid; */
   display: inline-block;
+  padding: 30px;
 }
 
 /*** smashing-membreship ***/
@@ -184,11 +240,16 @@ footer1 **/
   text-align: center;
   height:400px;
   border: 1px #333 solid;
+  display: flex;
+  align-items: center;
+  justify-self: center;
 }
 
 .list{
   display:flex;
   flex-wrap: wrap;
+  align-items: center;
+  justify-self: center;
 }
 .footer1{
   margin-left: 10px;
