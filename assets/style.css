@@ -6,9 +6,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
-  }
-  :root {
-    background: gray;
-    --main-color: hotpink;
-    --pane-padding: 5px 42px;
-  }
+}
+:root {
+  --main-bg-color: lightgray;
+}
