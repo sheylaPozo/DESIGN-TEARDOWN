@@ -8,5 +8,26 @@
     -ms-box-sizing: border-box;
 }
 :root {
+  background: lightslategray;
   --main-bg-color: lightgray;
+  --verylight-visual: white;
+  --normal-font: 16px;
+  --one: #b3b3b3;
+  --two: #a6a6a6;
+  --three: #999;
+  --four: #808080;
+  --five: #666;
+}
+.navbar_1 {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  width: 100%;
+  background-color: var(--heaviest-visual);
+  background-size: contain;
+  height: 205px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
 }
