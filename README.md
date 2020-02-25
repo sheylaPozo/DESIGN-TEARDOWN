@@ -29,8 +29,9 @@ The project did not require responsivness and the page was not designed responsi
  - Github:[Sheyla Pozo](https://github.com/sheylaPozo)
  - Linkedin: [Sheyla Pozo](https://www.linkedin.com/in/sheypozo/)
 
- - Github:[@ ]
- - Linkedin: [ ]
+- Github: [@HADDADSOHAIB](https://github.com/HADDADSOHAIB)
+- Twitter: [@HaddadSohaib](https://twitter.com/HaddadSohaib)
+- Linkedin: [linkedin](https://www.linkedin.com/in/sohaibhaddad/)
 
  ***
 

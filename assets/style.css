@@ -18,6 +18,13 @@
   --four: #808080;
   --five: #666;
 }
+
+
+/*** nav bar ****/
+nav {
+  width: 100%;
+}
+
 .navbar_1 {
   margin: 0;
   box-sizing: border-box;
@@ -25,9 +32,82 @@
   width: 100%;
   background-color: var(--heaviest-visual);
   background-size: contain;
-  height: 205px;
+  height: 100px;
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+}
+
+.nav_els {
+  border: 1px #333 solid;
+  align-self: stretch;
+  width: 14.28%;
+}
+
+/*** header ***/
+.Art_banner {
+  position: relative;
+  
+}
+
+.grid-wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 300px 300px;
+  
+}
+
+.Art-banner-title {
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  text-align: center;
+}
+
+.Art-banner-items {
+  border: 1px #333 solid;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header-title {
+  border: 1px rgb(161, 34, 34) solid;
+  display: inline-block;
+}
+
+/*** smashing-membreship ***/
+.smashing-membreship {
+  height: 300px;
+  width: 100%;
+  border: 1px #333 solid;
+}
+
+/***  latest-posts ***/
+.latest-posts {
+  display: flex;
+  border: 1px #333 solid;
+  width: 100%;
+  height: 300px;
+}
+
+.latest-posts-items {
+  border: 1px #333 solid;
+  width: 100%;
+}
+
+
+/***  supports ***/
+.supports {
+  display: flex;
+  border: 1px #333 solid;
+  width: 100%;
+  height: 300px;
+}
+
+.supports-items {
+  border: 1px #333 solid;
+  width: 100%;
 }
