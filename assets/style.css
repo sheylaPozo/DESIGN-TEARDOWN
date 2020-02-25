@@ -70,9 +70,9 @@
 }
 
 .g-9 {
-  background: #999;
+  background: rgba(220,220, 220, 0.6);
   border-radius: 3px;
-  color: #fff;
+  color: #666;
 }
 
 /*** nav bar ****/
@@ -249,10 +249,20 @@ footer1 **/
   display:flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-self: center;
+  justify-items: center;
 }
 .footer1{
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
   font-size: 1.4em;
+}
+
+.footer1 a {
+  text-decoration: none;
+  color: #222;
+}
+
+.footer1 a:hover {
+  text-decoration: none;
+  color: #222;
 }
