@@ -19,6 +19,10 @@
   --five: #666;
 }
 
+.header {
+  display: none;
+}
+
 /*** shades of grey ***/
 
 .g-1 {
