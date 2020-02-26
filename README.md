@@ -12,16 +12,11 @@ The project did not require responsivness and the page was not designed responsi
 *  HTML
 *  CSS
 
----
 ***
- ![Example](https://web.archive.org/web/20170628134444/http://www.vanseodesign.com/blog/wp-content/uploads/2009/12/visual-hierarchy-compared.png)
-
- ### Sample Page
-[Example](https://web.archive.org/web/20170628134444/http://www.vanseodesign.com/blog/wp-content/uploads/2009/12/visual-hierarchy-compared.png)
 
 ### Live Demo
 
-[live demo 1](https://rawcdn.githack.com/sheylaPozo/DESIGN-TEARDOWN/4daca1f3c4e3720db084031cfaab2a3adfb33491/index.html)
+[live demo 1](https://rawcdn.githack.com/sheylaPozo/DESIGN-TEARDOWN/f3837defe3075afd59f940531b21223feb2e22d1/index.html)
 [live demo 2](https://sheylapozo.github.io/DESIGN-TEARDOWN/)
 
 ---
